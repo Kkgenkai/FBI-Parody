@@ -33,6 +33,6 @@ As this project is primarily for educational and personal use, contributions are
 
 ** License **
 
-This project is Not-licensed(LoL obviously its github ¯\_(ツ)_/¯ ). Feel free to use the code for educational purposes and personal amusement.
+This project is Not-licensed(LoL obviously its github ¯\\_(ツ)_/¯ ). Feel free to use the code for educational purposes and personal amusement.
 
 Enjoy the parody and have a good laugh!
