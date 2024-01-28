@@ -30,6 +30,6 @@ Contributing
 As this project is primarily for educational and personal use, contributions are not actively sought. However, if you find bugs or have suggestions for improvement, feel free to create an issue or pull request.
 
 License
-This project is Not-licensed(LoL obviously its github¯\_(ツ)_/¯). Feel free to use the code for educational purposes and personal amusement.
+This project is Not-licensed(LoL obviously its github ¯\_(ツ)_/¯ ). Feel free to use the code for educational purposes and personal amusement.
 
 Enjoy the parody and have a good laugh! 🕵️‍♂️🤣
