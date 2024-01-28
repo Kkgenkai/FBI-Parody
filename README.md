@@ -9,9 +9,9 @@ Welcome to the FBI-Parody website, a lighthearted and humorous take on mimicking
 Objective: The primary goal of this project is to serve as a parody or gag, intended for amusement and to playfully troll friends and family.
 
 Technology Stack:
-
 HTML: Used for structuring the content of the website.
 CSS: Employed for styling and layout purposes, without the use of advanced frameworks or layout systems.
+
 Responsiveness: It's important to note that the website intentionally lacks responsiveness. The layout was designed with a fixed-width approach, and it does not adapt to various screen sizes.
 
 Features
