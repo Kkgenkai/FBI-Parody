@@ -4,7 +4,8 @@
 
 Welcome to the FBI-Parody website, a lighthearted and humorous take on mimicking the official FBI.gov website. This project was created for educational purposes, aiming to explore web development using only HTML and CSS without relying on modern layout systems such as Flexbox, Grid, or Bootstrap.
 
-Project Overview 
+**Project Overview **
+
 Objective: The primary goal of this project is to serve as a parody or gag, intended for amusement and to playfully troll friends and family.
 
 Technology Stack:
