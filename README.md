@@ -10,6 +10,7 @@ Welcome to the FBI-Parody website, a lighthearted and humorous take on mimicking
 [Technology Stack]:
   1. HTML: Used for structuring the content of the website.
   2. CSS: Employed for styling and layout purposes, without the use of advanced frameworks or layout systems.
+
 [Responsiveness]: It's important to note that the website intentionally lacks responsiveness. The layout was designed with a fixed-width approach, and it does not adapt to various screen sizes.
 
 ** Features **
